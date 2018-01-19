@@ -1,0 +1,18 @@
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\root\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ROOT\Downloads\Compressed\C# İle Enum List ve Enum Class kullanımı\C# İle Enum List ve Enum Class kullanımı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
